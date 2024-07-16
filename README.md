@@ -1,2 +1,2 @@
 Website Link :
-https://fashion-store1.netlify.app/
+https://studenthub1.netlify.app/
